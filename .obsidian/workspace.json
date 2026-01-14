@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "a72185feebeac521",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e31c521574eaea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7abbaf1bd1b1af53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 часть/27 ГОСТ ИСО 12207 процессы для использования в проекте.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 ГОСТ ИСО 12207 процессы для использования в проекте"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "885a4413e89babd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f7fc2501311eb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abedec8ce6143865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea13af11dbb5a82c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a02fde4a4a2d0fe8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a021e8204fabbbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "acc37ed512270839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7767acbbf3675d23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8 Структурное проектирование..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8 Структурное проектирование."
+            }
+          },
+          {
+            "id": "f432aed891026c84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8 Структурное проектирование..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8 Структурное проектирование."
+            }
+          },
+          {
+            "id": "d756a44be50ce332",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8264e84362d4fd80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "572a218b46d115e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8 Структурное проектирование..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8 Структурное проектирование."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7abbaf1bd1b1af53",
+  "lastOpenFiles": [
+    "Вопросы.md",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайна - Параллельный вызов.png",
+    "2 часть/диаграмма Константайна.md",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайна - Варианты вызовов.png",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайна - Вызовы.png",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайна - Циклы, условия.png",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайн - Связи.png",
+    "Схемы нотаций/Диаграмма Константайна/Диаграмма Константайна - модул.png",
+    "Схемы нотаций/Диаграмма Константайна/Карта Константайна.png",
+    "Схемы нотаций/Диаграмма Константайна",
+    "2 часть/DFD.md",
+    "Схемы нотаций/DFD/DFD - разница нотаций.png",
+    "Схемы нотаций/DFD/DFD.png",
+    "Фреймворки/Rational Unified Process (RUP).md",
+    "Схемы нотаций/DFD",
+    "2 часть/BPMN.md",
+    "2 часть/Диаграмма последовательности.md",
+    "Схемы нотаций/BPMN/BPMN - пример.png",
+    "1 часть/27 ГОСТ ИСО 12207 процессы для использования в проекте.md",
+    "Схемы нотаций/BPMN",
+    "2 часть/Диаграмма вариантов использования (use-case).md",
+    "2 часть/Диаграмма классов.md",
+    "Фреймворки/Custom Development Method (CDM).md",
+    "Фреймворки/Архитектура предприятия (TOGAF).md",
+    "Схемы нотаций/Диаграмма Use Case",
+    "Схемы нотаций/Диаграамма классов",
+    "Схемы нотаций/Диаграмма последовательности",
+    "1 часть/24 UML-диаграммы в проектировании ПО.md",
+    "27 ГОСТ/ИСО 12208 процессы для использования в проекте.md",
+    "1 часть/26 ГОСТ 34.601-90 значение для разработки ПО.md",
+    "27 ГОСТ",
+    "1 часть/25 CASE-средства и их использование.md",
+    "Термины/подход C4.md",
+    "1 часть/21 Методология Agile.md",
+    "24.md",
+    "1 часть/23 Технологии обеспечения коммуникаций в проекте разработки ПО.md",
+    "1 часть/22 Scrum как методика разработки ПО.md",
+    "Термины/Шестиугольная архитектура.md",
+    "Термины/CAP-теорема.md",
+    "Термины/AS-IF модель.md",
+    "Термины/Устав проекта.md",
+    "Термины/Слоистая архитектура.md",
+    "2 часть",
+    "Untitled.base",
+    "Untitled 1.base"
+  ]
+}
